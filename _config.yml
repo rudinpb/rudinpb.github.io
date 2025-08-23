@@ -1,0 +1,23 @@
+title: "My Academic Website"
+author: "Rudin Petrossian-Byrne"
+email: "rudin.petrossianbyrne@gmail.com"
+description: "Welcome to my academic website"
+baseurl: ""  # leave empty for personal site
+url: "https://rudinpb.github.io"
+theme: academicpages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Contact"
+    url: "/contact/"
