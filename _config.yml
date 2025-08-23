@@ -4,7 +4,7 @@ email: "rudin.petrossianbyrne@gmail.com"
 description: "Welcome to my academic website"
 baseurl: ""  # leave empty for personal site
 url: "https://rudinpb.github.io"
-theme: academicpages
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
