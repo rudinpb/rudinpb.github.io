@@ -1,0 +1,18 @@
+# Theme name
+theme: minima  # Replace 'minima' with your chosen theme
+
+# Basic site info
+title: "My Academic Website"
+description: "Welcome to my academic website"
+url: "https://rudinpb.github.io"
+baseurl: ""  # leave empty for personal GitHub Pages
+
+# Author info
+author:
+  name: "Rudin Petrossian-Byrne"
+  email: "rudin.petrossianbyrne@gmail.com"
+
+# Optional social links
+social_links:
+  github: "https://github.com/rudinpb"
+  orcid: "https://orcid.org/0000-0003-0868-2950"
