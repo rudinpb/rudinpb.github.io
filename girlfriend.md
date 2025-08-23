@@ -6,4 +6,4 @@ permalink: /girlfriend/
 # My girlfriend
 This is my girlfriend. Please fund me. 
 
-![Isn't she hot?](/girlfriend.jpg)
+![Isn't she hot?](/girlfriend.jpeg)
