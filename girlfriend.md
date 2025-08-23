@@ -4,7 +4,6 @@ title: My Girlfriend
 permalink: /girlfriend/
 ---
 
-This is my girlfriend. Please fund me. 
+This is my girlfriend. Isn't she hot? Please give me grant money. 
 
-![Isn't she hot?](/girlfriend.jpeg)
 <img src="/girlfriend.jpeg" alt="Description" width="300">
