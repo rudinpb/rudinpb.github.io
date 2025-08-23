@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: About
 ---
 
-Welcome to my academic website! It's just testing time. 
+Welcome to my academic website! Work in progress... 
