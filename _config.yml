@@ -11,11 +11,9 @@ plugins:
 
 # Navigation
 navbar:
-  - title: "About"
+  - title: "Home"
     url: "/"
   - title: "Research"
     url: "/research/"
-  - title: "Publications"
-    url: "/publications/"
-  - title: "Contact"
-    url: "/contact/"
+  - title: "Miscellaneous"
+    url: "/miscellaneous/"
